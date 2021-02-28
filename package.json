@@ -30,6 +30,8 @@
     "chart.js": "^2.9.4",
     "cytoscape": "^3.18.0",
     "debounce": "jywarren/debounce#patch-1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
     "file-saver": "^2.0.5",
     "i18n-js": "^3.8.0",
     "ics": "nwcell/ics.js#^0.2.0",
